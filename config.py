@@ -86,7 +86,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/mahtoanjali/ANJALI--RENAME-BOT>𝐀𝐍𝐉𝐀𝐋𝐈 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MᴏTᴇᴄʜ Yᴛ</a>
+» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/QUEENx_GOD>MᴏTᴇᴄʜ Yᴛ</a>
 • ❣️ <a href=https://t.me/QUEENx_GOD>𝗠𝗔𝗛𝗧𝗢 𝗔𝗡𝗝𝗔𝗟𝗜</a>
 • ❣️ <a href=https://t.me/QUEENx_GOD>𝗠𝗔𝗛𝗧𝗢 𝗔𝗡𝗝𝗔𝗟𝗜</a>
 • ❣️ <a href=https://t.me/QUEENx_GOD>𝗠𝗔𝗛𝗧𝗢 𝗔𝗡𝗝𝗔𝗟𝗜</a>
