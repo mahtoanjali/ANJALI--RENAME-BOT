@@ -74,16 +74,16 @@ broadcast - Send Message To All Users (Admin Only)
 ## ❣️Thanks To
 
 <a href="https://t.me/QUEENx_GOD">
-   <p> lntechnical TG</p>
+   <p> Mahto Anjali TG</p>
   </a>
 <a href="https://t.me/QUEENx_GOD">
-   <p> lntechnical YT </p>
+   <p> Mahto Anjali TG </p>
   </a>
 
 ## 🤩 INSPIRATION
 
 <a href="https://t.me/QUEENx_GOD">
-   <p>❣️ MoTech 🔥</p>
+   <p>❣️ Mahto 🔥</p>
   </a>
 
 
